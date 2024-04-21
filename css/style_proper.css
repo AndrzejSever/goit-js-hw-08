@@ -3,7 +3,8 @@
      display: flex;
      gap: 24px;
      flex-wrap: wrap;
-
+     margin: 24px 156px;
+     padding: 0;
 }
 
 
@@ -15,6 +16,3 @@ height: 200px;
 }
 
 
-.img_modal{
-
-}

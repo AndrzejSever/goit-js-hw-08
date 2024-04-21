@@ -89,7 +89,7 @@ function cool (ev)
        return;
     }
 
-     const instance = basicLightbox.create(`<img src = '${ev.target.dataset.source}' class = 'img_modal'>`);
+     const instance = basicLightbox.create(`<img src = '${ev.target.dataset.source}'>`);
      instance.show();
     
     console.log(ev.target);
