@@ -1,0 +1,20 @@
+.gallery{
+     list-style: none;
+     display: flex;
+     gap: 24px;
+     flex-wrap: wrap;
+
+}
+
+
+
+
+.gallery__image {
+width: 360px;
+height: 200px;
+}
+
+
+.img_modal{
+
+}
